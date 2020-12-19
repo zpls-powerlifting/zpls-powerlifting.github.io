@@ -2687,7 +2687,7 @@ section.col-4 a:hover {
 
 	#banner {
 		background: rgba(76, 76, 76, 1);
-		background-image: url("/images/ZPLS-logo.png");
+		background-image: url("../../images/ZPLS-logo.png");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: 22em;
