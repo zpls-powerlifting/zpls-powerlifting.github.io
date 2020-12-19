@@ -1,0 +1,31 @@
+---
+title: Novosti
+layout: default
+---
+
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+			{% for post in site.posts offset: 0 %}
+			{% assign mod2 = forloop.index | modulo: 2 %}
+			{% if mod2 == 1 %}
+			<div class="row">
+			{% endif %}
+				<section class="col-6 col-12-narrower">
+					<div class="box post">
+						<a href="{{ site.baseurl }}{{ post.url }}" class="image left"><img src="{{ site.baseurl }}{{ post.thumbnail }}" alt="" /></a>
+						<div class="inner">
+							<h3>{{ post.title }}</h3>
+							<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
+							<footer>
+								<a href="{{ site.baseurl }}{{ post.url }}" class="button">Više</a>
+							</footer>
+						</div>
+					</div>
+				</section>
+			{% if mod2 == 0 or forloop.last %}
+			</div>
+			{% endif %}
+		{% endfor %}
+		</div>
+	</section>

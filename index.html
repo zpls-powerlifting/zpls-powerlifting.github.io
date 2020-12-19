@@ -1,0 +1,81 @@
+---
+title: Arcana
+layout: default
+---
+			
+<!-- Banner -->
+	<section id="banner">
+	</section>
+
+<!-- Highlights -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div class="row gtr-200">
+				<section class="col-4 col-12-narrower">
+					<a href="novosti.html">
+						<div class="box highlight">
+							<i class="icon solid major fa-newspaper"></i>
+							<h3>Novosti</h3>
+							<p>Saznajte posljednje novosti vezane uz natjecanja, predavanja i ostale vijesti vezane uz zagrebački powerlifting</p>
+						</div>
+					</a>
+				</section>
+				<section class="col-4 col-12-narrower">
+					<a href="savez.html">
+						<div class="box highlight">
+							<i class="icon solid major fa-dumbbell"></i>
+							<h3>Savez</h3>
+							<p>Više informacija o Zagrebačkom powerlifting savezu</p>
+						</div>
+					</a>
+				</section>
+				<section class="col-4 col-12-narrower">
+					<a href="klubovi.html">
+						<div class="box highlight">
+							<i class="icon solid major fa-trophy"></i>
+							<h3>Klubovi</h3>
+							<p>Informacije o klubovima članovima Zagrebačkog powerlifting saveza</p>
+						</div>
+					</a>
+				</section>
+			</div>
+		</div>
+	</section>
+
+<!-- Gigantic Heading -->
+	<section class="wrapper style2">
+		<div class="container">
+			<header class="major">
+				<h2>Posljednje novosti</h2>
+			</header>
+		</div>
+	</section>
+
+<!-- Posts -->
+	<section class="wrapper style1">
+		<div class="container">
+		{% for post in site.posts offset: 0 limit: 4 %}
+			{% assign mod2 = forloop.index | modulo: 2 %}
+			{% if mod2 == 1 %}
+			<div class="row">
+			{% endif %}
+				<section class="col-6 col-12-narrower">
+					<div class="box post">
+						<a href="{{ site.baseurl }}{{ post.url }}" class="image left"><img src="{{ site.baseurl }}{{ post.thumbnail }}" alt="" /></a>
+						<div class="inner">
+							<h3>{{ post.title }}</h3>
+							<p>{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
+							<footer>
+								<a href="{{ site.baseurl }}{{ post.url }}" class="button">Više</a>
+							</footer>
+						</div>
+					</div>
+				</section>
+			{% if mod2 == 0 or forloop.last %}
+			</div>
+			{% endif %}
+		{% endfor %}
+		</div>
+	</section>
+	
+	{% include cta.html %}
