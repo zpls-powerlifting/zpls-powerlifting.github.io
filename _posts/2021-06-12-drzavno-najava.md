@@ -13,6 +13,6 @@ Natjecanje će se moći pratiti i uživo preko profesionalnog livestreama s viš
 
 Glavni sponzor natjecanja je <a href="https://www.eluir.hr" target="_blank">ELUIR</a>, koji će nam omogućiti vrhunsku opremu u prostoru za zagrijavanje sa svojim novim Legion combo rackovima. Osim toga, osigurati će i vrijedne nagrade za najbolje powerliftere i powerlifterice - između ostalog - SBD pojaseve!
 
-Ostali sponzori su <a href="https://www.the-nutrition.com/domov/sl/hr" target="_blank">THE Nutrition</a>, <a href="https://trainstation.com.hr" target="_blank">Train Station</a> i <a href="https://www.fakat.eu" target="_blank">fakat.</a>.
+Ostali sponzori su <a href="https://janaf.hr" target="_blank">JANAF</a>, <a href="https://www.the-nutrition.com/domov/sl/hr" target="_blank">THE Nutrition</a>, <a href="https://trainstation.com.hr" target="_blank">Train Station</a> i <a href="https://www.fakat.eu" target="_blank">fakat.</a>.
 
-Više informacija o lokaciji i terminima uskoro. Prijave su moguće na standardan način - preko prijavnica koje šalju klubovi.
+Natjecanje će se održati u sportskoj dvorani Osnovne škole Vrbani, Listopadska 8. Prijave su moguće na standardan način - preko prijavnica koje šalju klubovi.
