@@ -1,5 +1,5 @@
 ---
-title: X. Državno prvenstvo u powerliftingu i bench pressu
+title: X. Državno prvenstvo u powerliftingu i bench pressu - najava
 thumbnail: /images/2021-06-12-drzavno-thumb.png
 featured: /images/2021-06-12-drzavno.png
 layout: post
