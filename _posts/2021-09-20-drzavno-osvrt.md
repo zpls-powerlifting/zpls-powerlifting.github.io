@@ -21,7 +21,7 @@ Zahvaljujemo se i ostalim sponzorima: <a href="https://janaf.hr" target="_blank"
 <span class="image featured"><img src="{{ site.baseurl }}/images/2021-09-20-drzavno-2.jpg" alt="" /></span>
 
 Prvi dan - powerlifting muški:
-https://youtu.be/MObjI77cK7Q
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MObjI77cK7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Drugi dan - powerlifting žene, bench press:
-https://youtu.be/tDcYvV8z6N4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDcYvV8z6N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
