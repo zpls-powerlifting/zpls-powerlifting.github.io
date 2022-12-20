@@ -55,3 +55,5 @@ Drugi dan - powerlifting:
 <iframe class="video" src="https://www.youtube.com/embed/IbQe6RuatqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe class="video" src="https://www.youtube.com/embed/2rkZE_Kg0BE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/FTXDWxXPn9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
