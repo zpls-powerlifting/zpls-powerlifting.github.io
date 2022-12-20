@@ -3376,3 +3376,8 @@ section.col-4 a:hover {
 			}
 
 	}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
