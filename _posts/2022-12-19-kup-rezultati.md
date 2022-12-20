@@ -23,10 +23,35 @@ Opremu nam je osigurao glavni sponzor <a href="https://www.eluir.hr" target="_bl
 
 I ove godine je cijelo natjecanje popraćeno prijenosom uživo s komentatorima - ovaj put na platformi Twitch, a snimka cijelog natjecanja dostupna je na Youtube-u.
 
-Zahvaljujemo se i ostalim sponzorima: <a href="https://nutrikong.hr" target="_blank">NutriKong</a>i 4RCE.
+Zahvaljujemo se i ostalim sponzorima: <a href="https://nutrikong.hr" target="_blank">NutriKong</a> i 4RCE.
 
 <h3><a href="{{ site.baseurl }}/documents/2022-19-12-2.kup-grada-zagreba-rezultati.xlsx" target="_blank">Rezultate možete preuzeti ovdje.</a></h3>
 
 <h3><a href="https://drive.google.com/drive/folders/1fh9DCdpKZcEOaggjTyUno_I0Af8Tvcam" target="_blank">Diplome možete preuzeti ovdje.</a></h3>
 
 <span class="image featured"><img src="{{ site.baseurl }}/images/2022-12-19-kup-4.jpg" alt="" /></span>
+
+Prvi dan - powerlifting žene, grupa A i B:
+<iframe class="video" src="https://www.youtube.com/embed/56-a89EbQR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Prvi dan - powerlifting žene, grupa C i D:
+<iframe class="video" src="https://www.youtube.com/embed/QriQQnZho2w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/45Kzc3YopO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Prvi dan - powerlifting muški: 
+<iframe class="video" src="https://www.youtube.com/embed/wZzf_LjW7HM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/2Jl5XLUUwsk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Drugi dan - bench press:
+<iframe class="video" src="https://www.youtube.com/embed/Q8z8VlRRgHk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Drugi dan - powerlifting:
+<iframe class="video" src="https://www.youtube.com/embed/gS9uvlSZfAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/NSMMHcb9pXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/IbQe6RuatqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video" src="https://www.youtube.com/embed/2rkZE_Kg0BE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
