@@ -13,13 +13,13 @@ Natjecanje je po prvi puta održano kroz tri dana. Planirana satnica je uspješn
 
 <span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-3.jpg" alt="" /></span>
 
-Oprema je ove godine bila još za nijansu poboljšana u odnosu na prošlu - natjecateljska platforma od prošle godine ove je godine izrađena u dodatna četiri primjerka za warmup. Dosadašnjeg standard zadržan je i u ostalim aspektima - 4 warmup combo racka, 4 power bara, isključivo kalibrirani utezi...
+Oprema je ove godine bila još za nijansu poboljšana u odnosu na prošlu - natjecateljska platforma od prošle godine ove je godine izrađena u dodatna četiri primjerka za warmup. Dosadašnji standard zadržan je i u ostalim aspektima - 4 warmup combo racka, 4 power bara, isključivo kalibrirani utezi...
 
-<span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-3.jpg" alt="" /></span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-4.jpg" alt="" /></span>
 
 Opremu nam je osigurao glavni sponzor <a href="https://www.eluir.hr" target="_blank">ELUIR</a>, uz bogate nagrade za najbolje natjecatelje. 
 
-<span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-4.jpg" alt="" /></span>
+<span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-5.jpg" alt="" /></span>
 
 I ove godine je cijelo natjecanje popraćeno prijenosom uživo s komentatorima - ovaj put na platformi Twitch, a snimka cijelog natjecanja dostupna je na Youtube-u.
 
@@ -34,8 +34,6 @@ Ovim putem zahvaljujemo se sponzorima:
 </ul>
 
 <h3><a href="{{ site.baseurl }}/documents/2023-12-14-3.kup-grada-zagreba-rezultati.xlsx" target="_blank">Rezultate možete preuzeti ovdje.</a></h3>
-
-<span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-5.jpg" alt="" /></span>
 
 <span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-6.jpg" alt="" /></span>
 
