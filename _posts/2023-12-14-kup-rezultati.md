@@ -17,8 +17,6 @@ Oprema je ove godine bila još za nijansu poboljšana u odnosu na prošlu - natj
 
 <span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-4.jpg" alt="" /></span>
 
-Opremu nam je osigurao glavni sponzor <a href="https://www.eluir.hr" target="_blank">ELUIR</a>, uz bogate nagrade za najbolje natjecatelje. 
-
 <span class="image featured"><img src="{{ site.baseurl }}/images/2023-12-14-kup-5.jpg" alt="" /></span>
 
 I ove godine je cijelo natjecanje popraćeno prijenosom uživo s komentatorima - ovaj put na platformi Twitch, a snimka cijelog natjecanja dostupna je na Youtube-u.
